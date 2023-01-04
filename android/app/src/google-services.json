@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "166023709102",
+    "project_id": "notes-app-668bd",
+    "storage_bucket": "notes-app-668bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166023709102:android:30209faba170344d30483f",
+        "android_client_info": {
+          "package_name": "com.meetkajavadra.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166023709102-3mrhku12s5bf84v6l8ssejohdbmfs6m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meetkajavadra.notes_app",
+            "certificate_hash": "f3a6d5a9c4a841da8a6e7c7e09d71274fcc810ab"
+          }
+        },
+        {
+          "client_id": "166023709102-p7f5m5u5ekiohrljta03321sl1kddbr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApMNGBXCSMFPWPaeHTfwIgMol4U64eF1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166023709102-p7f5m5u5ekiohrljta03321sl1kddbr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
